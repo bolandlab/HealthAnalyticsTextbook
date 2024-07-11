@@ -10,7 +10,8 @@ This folder contains the following files:<br/>
 **Published Datasets**<br/> 
 4.) **matrix_w_netherlands_ALL.csv** This file contains a list of OMOP/OHDSI CDM concept Ids and binary columns indicating if those diagnosis codes were used (i.e., with a frequency of greater than 1,000 patients) at the following sites seattle (seattle_dx column), netherlands (neatherlands_dx column), South Korea (korea_dx column), Taiwan (taiwan_dx column), New York Presbyterian in New York City, NY (cumc_dx column), Mount Sinai Hospital in New York City, NY (mtsinai_dx column), and Vanderbilt University hospital in Nashville, Tennessee (vanderbilt_dx column). Each column is a binary indicator column with a 1 indicating that that condition was found with a prevalence of at least 1,000 patients at the time the queries were run (from 2014-2017), and a 0 indicating that that condition concept id was not found with a prevalence of at least 1,000 patients at that point in time when the query was run.
 
-**Diagnostic Code Maps**
+<br/> 
+**Diagnostic Code Maps**<br/> 
 5.) **phecode_icd9_rolled.csv** This file contains the ICD-9 diagnosis code to PheCode map
 
 6.) **phecode_icd10.csv** This file contains the ICD-10 diagnosis code to PheCode map
