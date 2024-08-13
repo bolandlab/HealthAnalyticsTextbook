@@ -24,6 +24,10 @@ This folder contains the following files:<br/>
 11.) **airpollution_global_set2.csv** This file is the second of three files, each labeled set 1, set 2, set 3, respectively that contains information on air pollution for the entire globe. This information originally comes from the World Health Organization (WHO). This is a real dataset, and was used in the following publication: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0207932. This is the second set of data (broken into three files due to file constaints on GitHub).
 
 12.) **airpollution_global_set3.csv** This file is the third of three files, each labeled set 1, set 2, set 3, respectively that contains information on air pollution for the entire globe. This information originally comes from the World Health Organization (WHO). This is a real dataset, and was used in the following publication: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0207932. This is the third set of data (broken into three files due to file constaints on GitHub).
+
+13.) **average_yearly_temp_percountry_wiki.csv** This file contains information for the entire world on their average yearly temperature per country. It was obtained from Wikipedia. This is a real dataset, and was used in the following publication: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0207932. 
+
+
  
 <br/>**Diagnostic Code Maps**<br/> 
 5.) **phecode_icd9_rolled.csv** This file contains the ICD-9 diagnosis code to PheCode map
