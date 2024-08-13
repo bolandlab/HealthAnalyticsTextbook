@@ -32,16 +32,16 @@ This folder contains the following files:<br/>
 
  
 <br/>**Diagnostic Code Maps**<br/> 
-5.) **phecode_icd9_rolled.csv** This file contains the ICD-9 diagnosis code to PheCode map
+15.) **phecode_icd9_rolled.csv** This file contains the ICD-9 diagnosis code to PheCode map
 
-6.) **phecode_icd10.csv** This file contains the ICD-10 diagnosis code to PheCode map
+16.) **phecode_icd10.csv** This file contains the ICD-10 diagnosis code to PheCode map
 
-7.) **icd9_snomed_codemap.csv** This file contains a link between the OMOP or OHDSI CDM concept IDs to those of the ICD-9 diagnosis codes and finally to the SNOMED-CT codes. This can be useful if you are looking to just map those codes using only ICD-9. Typically one would link all local diagnostic codes (typically ICD-9 and ICD-10) to the OHDSI/OMOP CDM concept IDs and then link from there to retrieve the SNOMED-CT codes
+17.) **icd9_snomed_codemap.csv** This file contains a link between the OMOP or OHDSI CDM concept IDs to those of the ICD-9 diagnosis codes and finally to the SNOMED-CT codes. This can be useful if you are looking to just map those codes using only ICD-9. Typically one would link all local diagnostic codes (typically ICD-9 and ICD-10) to the OHDSI/OMOP CDM concept IDs and then link from there to retrieve the SNOMED-CT codes
 
-8.) **CONCEPT_firstset.csv** A subset sample file of concept information to show an example of information that would be used in a CONCEPT table for the OHDSI Common Data Model. Because of size constraints this dataset is split into three sub-files, but it is still not complete. If you want the full dataset you must download it directly from the OHDSI website. 
+18.) **CONCEPT_firstset.csv** A subset sample file of concept information to show an example of information that would be used in a CONCEPT table for the OHDSI Common Data Model. Because of size constraints this dataset is split into three sub-files, but it is still not complete. If you want the full dataset you must download it directly from the OHDSI website. 
 
-9.) **CONCEPT_secondset.csv** A subset sample file of concept information (the second subset) to show an example of information that would be used in a CONCEPT table for the OHDSI Common Data Model. Because of size constraints this dataset is split into three sub-files, but it is still not complete. If you want the full dataset you must download it directly from the OHDSI website. 
+19.) **CONCEPT_secondset.csv** A subset sample file of concept information (the second subset) to show an example of information that would be used in a CONCEPT table for the OHDSI Common Data Model. Because of size constraints this dataset is split into three sub-files, but it is still not complete. If you want the full dataset you must download it directly from the OHDSI website. 
 
-10.) **CONCEPT_thirdset.csv** A subset sample file of concept information to show an example of information (the third subset) that would be used in a CONCEPT table for the OHDSI Common Data Model. Because of size constraints this dataset is split into three sub-files, but it is still not complete. If you want the full dataset you must download it directly from the OHDSI website. 
+20.) **CONCEPT_thirdset.csv** A subset sample file of concept information to show an example of information (the third subset) that would be used in a CONCEPT table for the OHDSI Common Data Model. Because of size constraints this dataset is split into three sub-files, but it is still not complete. If you want the full dataset you must download it directly from the OHDSI website. 
 
 
