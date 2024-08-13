@@ -19,6 +19,11 @@ This folder contains the following files:<br/>
 
 9.) **GDP_global_2010to2016.csv** This file contains information for the entire world on their Gross Domestic Product (GDP) a measure of economic power from WorldBank.com. This is a real dataset, and was used in the following publication: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0207932. 
 
+10.) **airpollution_global_set1.csv** This file is the first of three files, each labeled set 1, set 2, set 3, respectively that contains information on air pollution for the entire globe. This information originally comes from the World Health Organization (WHO). This is a real dataset, and was used in the following publication: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0207932. This is the first set of data (broken into three files due to file constaints on GitHub).
+
+11.) **airpollution_global_set2.csv** This file is the second of three files, each labeled set 1, set 2, set 3, respectively that contains information on air pollution for the entire globe. This information originally comes from the World Health Organization (WHO). This is a real dataset, and was used in the following publication: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0207932. This is the second set of data (broken into three files due to file constaints on GitHub).
+
+12.) **airpollution_global_set3.csv** This file is the third of three files, each labeled set 1, set 2, set 3, respectively that contains information on air pollution for the entire globe. This information originally comes from the World Health Organization (WHO). This is a real dataset, and was used in the following publication: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0207932. This is the third set of data (broken into three files due to file constaints on GitHub).
  
 <br/>**Diagnostic Code Maps**<br/> 
 5.) **phecode_icd9_rolled.csv** This file contains the ICD-9 diagnosis code to PheCode map
