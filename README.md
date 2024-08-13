@@ -9,6 +9,11 @@ This folder contains the following files:<br/>
 <br/>**Published Datasets**<br/> 
 4.) **matrix_w_netherlands_ALL.csv** This file contains a list of OMOP/OHDSI CDM concept Ids and binary columns indicating if those diagnosis codes were used (i.e., with a frequency of greater than 1,000 patients) at the following sites seattle (seattle_dx column), netherlands (neatherlands_dx column), South Korea (korea_dx column), Taiwan (taiwan_dx column), New York Presbyterian in New York City, NY (cumc_dx column), Mount Sinai Hospital in New York City, NY (mtsinai_dx column), and Vanderbilt University hospital in Nashville, Tennessee (vanderbilt_dx column). Each column is a binary indicator column with a 1 indicating that that condition was found with a prevalence of at least 1,000 patients at the time the queries were run (from 2014-2017), and a 0 indicating that that condition concept id was not found with a prevalence of at least 1,000 patients at that point in time when the query was run.
 
+5.) **ALL_NEIGHBORHOOD_COVARIATES_YEARLY_PHILLY.csv** This file contains information from the American Community Survey (ACS) on neighborhood level covariates for Philadelphia. Therefore, it contains census-tract level information for the county of Philadelphia regarding a variety of important covariates from the ACS. It also includes information from the census-tract level that comes from OpenDataPhilly and other resources. This is a real dataset, and was used in several publications, including: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8378638/. 
+
+
+
+
  
 <br/>**Diagnostic Code Maps**<br/> 
 5.) **phecode_icd9_rolled.csv** This file contains the ICD-9 diagnosis code to PheCode map
