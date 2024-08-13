@@ -27,6 +27,8 @@ This folder contains the following files:<br/>
 
 13.) **average_yearly_temp_percountry_wiki.csv** This file contains information for the entire world on their average yearly temperature per country. It was obtained from Wikipedia. This is a real dataset, and was used in the following publication: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0207932. 
 
+14.) **rawdata_CIA_birthrate_2016_cleaned.txt** This file contains information for the entire world on their yearly birth rate in 2016. The dataset was originally developed by the CIA and is freely available. This is a real dataset, and was used in the following publication: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0207932. 
+
 
  
 <br/>**Diagnostic Code Maps**<br/> 
