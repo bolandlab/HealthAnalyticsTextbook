@@ -13,9 +13,11 @@ This folder contains the following files:<br/>
 
 6.) **BMI_age_standardized_WHO_2014.csv** This file contains information for the entire world from the World Health Organization (WHO) on Body Mass Index (BMI) that is age standardized and from 2014. This is a real dataset, and was used in several publications, including: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0207932. 
 
-7.) **DATA_global_fertility_model_182countries_FINAL.csv** This file contains information for the entire world that has been aggregated from multiple sources, including the World Health Organization (WHO) among others. This is a real dataset, and was used in the following publication, including: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0207932. 
+7.) **DATA_global_fertility_model_182countries_FINAL.csv** This file contains information for the entire world that has been aggregated from multiple sources, including the World Health Organization (WHO) among others. This is a real dataset, and was used in the following publication: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0207932. 
 
 8.) **FAOSTAT_data_8-22-2017.csv** This file contains information on pesticide usage, which is supposed to be from the entire world, but which we found was lacking several important countries (including the United States of America). It was considered to be used in the following publication, but due to the paucity of data it was not included, but will be included as a learning example in this textbook. Relevant reference: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0207932. 
+
+9.) **GDP_global_2010to2016.csv** This file contains information for the entire world on their Gross Domestic Product (GDP) a measure of economic power from WorldBank.com. This is a real dataset, and was used in the following publication: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0207932. 
 
  
 <br/>**Diagnostic Code Maps**<br/> 
