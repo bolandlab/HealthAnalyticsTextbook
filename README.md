@@ -13,6 +13,7 @@ This folder contains the following files:<br/>
 
 6.) **BMI_age_standardized_WHO_2014.csv** This file contains information for the entire world from the World Health Organization (WHO) on Body Mass Index (BMI) that is age standardized and from 2014. This is a real dataset, and was used in several publications, including: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0207932. 
 
+7.) **DATA_global_fertility_model_182countries_FINAL.csv** This file contains information for the entire world that has been aggregated from multiple sources, including the World Health Organization (WHO) among others. This is a real dataset, and was used in the following publication, including: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0207932. 
 
 
 
