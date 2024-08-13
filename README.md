@@ -11,6 +11,8 @@ This folder contains the following files:<br/>
 
 5.) **ALL_NEIGHBORHOOD_COVARIATES_YEARLY_PHILLY.csv** This file contains information from the American Community Survey (ACS) on neighborhood level covariates for Philadelphia. Therefore, it contains census-tract level information for the county of Philadelphia regarding a variety of important covariates from the ACS. It also includes information from the census-tract level that comes from OpenDataPhilly and other resources. This is a real dataset, and was used in several publications, including: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8378638/. 
 
+6.) **BMI_age_standardized_WHO_2014.csv** This file contains information for the entire world from the World Health Organization (WHO) on Body Mass Index (BMI) that is age standardized and from 2014. This is a real dataset, and was used in several publications, including: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0207932. 
+
 
 
 
